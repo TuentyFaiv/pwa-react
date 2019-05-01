@@ -9,6 +9,8 @@ PWA que utiliza la API de MealDB para mostrar recetas con sus instrucciones. Alg
 * Add to Home Screen
 * Web Share API
 
+[Ver la app en producción](https://platzi-recetas.tuentyfaiv.now.sh/)
+
 ## Scripts
 
 * `npm install` para instalar las dependencias
